@@ -1,2 +1,0 @@
-# IceCreamSwap.finance
-IceCreamSwap site
