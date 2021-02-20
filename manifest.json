@@ -1,7 +1,7 @@
 {
  "short_name": "IceCreamSwap",
  "name": "IceCreamSwap",
- "description": "Farm iCream with IceCream/Pancake LP Tokens",
+ "description": "Farm Gelato with IceCream/Pancake LP Tokens",
  "start_url": "https://icecreamswap.finance",
  "display": "standalone",
  "theme_color": "#000000",
