@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: icecreamswap.finance
+Token: b0d3aeddd35c22a2224596be7d856fbccdd8d1e694ccdf8367c0755066d326de
